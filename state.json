@@ -62,6 +62,15 @@
       "expiresAt": 1775238921252,
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
+    },
+    "Luna-PD-Free-8392671": {
+      "userId": "1093483853391351819",
+      "userTag": "bobrik_is_navi",
+      "duration": "5h",
+      "createdAt": "2026-04-03T11:10:02.683Z",
+      "expiresAt": 1775232601891,
+      "isUniversal": false,
+      "file": "KeySystemProjectDelta.txt"
     }
   },
   "licenses": {},
@@ -70,6 +79,7 @@
     "1464253355013574855": 0,
     "537019282597478423": 1,
     "1252968011824894024": 2,
-    "950314378220171285": 3
+    "950314378220171285": 3,
+    "1093483853391351819": 1
   }
 }
