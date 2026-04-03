@@ -35,6 +35,15 @@
       "expiresAt": 1775232601891,
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
+    },
+    "Luna-RS-Free-4592823": {
+      "userId": "1239908846290342018",
+      "userTag": "yokai.win",
+      "duration": "5h",
+      "createdAt": "2026-04-03T14:00:50.343Z",
+      "expiresAt": 1775242849493,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {},
@@ -44,6 +53,7 @@
     "537019282597478423": 1,
     "1252968011824894024": 1,
     "950314378220171285": 1,
-    "1093483853391351819": 1
+    "1093483853391351819": 1,
+    "1239908846290342018": 1
   }
 }
