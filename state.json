@@ -170,6 +170,15 @@
       "expiresAt": 1775291278345,
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
+    },
+    "Luna-PD-Free-5552447": {
+      "userId": "1200202797086429224",
+      "userTag": "fayter.88",
+      "duration": "10h",
+      "createdAt": "2026-04-03T22:47:02.358Z",
+      "expiresAt": 1775292421703,
+      "isUniversal": false,
+      "file": "KeySystemProjectDelta.txt"
     }
   },
   "licenses": {},
@@ -190,6 +199,7 @@
     "928803658852864030": 2,
     "333563859191201793": 1,
     "1217866258591252541": 3,
-    "1221815920721137666": 1
+    "1221815920721137666": 1,
+    "1200202797086429224": 1
   }
 }
