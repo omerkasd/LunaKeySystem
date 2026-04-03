@@ -27,24 +27,6 @@
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
     },
-    "Luna-PD-Free-8372684": {
-      "userId": "950314378220171285",
-      "userTag": "matvej7777",
-      "duration": "5h",
-      "createdAt": "2026-04-03T07:53:40.608Z",
-      "expiresAt": 1775220819770,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
-    "Luna-PD-Free-1956208": {
-      "userId": "950314378220171285",
-      "userTag": "matvej7777",
-      "duration": "5h",
-      "createdAt": "2026-04-03T07:53:53.985Z",
-      "expiresAt": 1775220833183,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
     "Luna-PD-Free-9244408": {
       "userId": "950314378220171285",
       "userTag": "matvej7777",
@@ -70,7 +52,7 @@
     "1464253355013574855": 0,
     "537019282597478423": 1,
     "1252968011824894024": 1,
-    "950314378220171285": 3,
+    "950314378220171285": 1,
     "1093483853391351819": 1
   }
 }
