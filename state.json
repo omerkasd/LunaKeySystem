@@ -9,15 +9,6 @@
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
     },
-    "Luna-PD-Free-9244408": {
-      "userId": "950314378220171285",
-      "userTag": "matvej7777",
-      "duration": "10h",
-      "createdAt": "2026-04-03T07:55:21.967Z",
-      "expiresAt": 1775238921252,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
     "Luna-RS-Free-4592823": {
       "userId": "1239908846290342018",
       "userTag": "yokai.win",
@@ -142,7 +133,7 @@
     "1464253355013574855": 0,
     "537019282597478423": 0,
     "1252968011824894024": 1,
-    "950314378220171285": 1,
+    "950314378220171285": 0,
     "1093483853391351819": 0,
     "1239908846290342018": 2,
     "310304985135185920": 1,
