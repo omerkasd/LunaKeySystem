@@ -17,12 +17,22 @@
       "expiresAt": 1775226756419,
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
+    },
+    "Luna-PD-Free-6723365": {
+      "userId": "1252968011824894024",
+      "userTag": "nddlen",
+      "duration": "5h",
+      "createdAt": "2026-04-03T06:43:23.411Z",
+      "expiresAt": 1775216602665,
+      "isUniversal": false,
+      "file": "KeySystemProjectDelta.txt"
     }
   },
   "licenses": {},
   "counts": {
     "1463265815192273129": 1,
     "1464253355013574855": 0,
-    "537019282597478423": 1
+    "537019282597478423": 1,
+    "1252968011824894024": 1
   }
 }
