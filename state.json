@@ -18,15 +18,6 @@
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
     },
-    "Luna-PD-Free-8392671": {
-      "userId": "1093483853391351819",
-      "userTag": "bobrik_is_navi",
-      "duration": "5h",
-      "createdAt": "2026-04-03T11:10:02.683Z",
-      "expiresAt": 1775232601891,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
     "Luna-RS-Free-4592823": {
       "userId": "1239908846290342018",
       "userTag": "yokai.win",
@@ -116,7 +107,7 @@
     "537019282597478423": 0,
     "1252968011824894024": 1,
     "950314378220171285": 1,
-    "1093483853391351819": 1,
+    "1093483853391351819": 0,
     "1239908846290342018": 2,
     "310304985135185920": 1,
     "1412114086770245782": 5
