@@ -323,6 +323,15 @@
       "expiresAt": 1775337255803,
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
+    },
+    "Luna-RS-Free-3543323": {
+      "userId": "1327238943325945867",
+      "userTag": "han_river3",
+      "duration": "10h",
+      "createdAt": "2026-04-04T11:21:36.078Z",
+      "expiresAt": 1775337695307,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -374,6 +383,7 @@
     "1035207440146386974": 1,
     "925898632178335764": 1,
     "1489940214494527548": 1,
-    "1489935532027809932": 3
+    "1489935532027809932": 3,
+    "1327238943325945867": 1
   }
 }
