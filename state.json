@@ -332,6 +332,15 @@
       "expiresAt": 1775359950101,
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
+    },
+    "Luna-RS-Free-9166474": {
+      "userId": "1487886677178454357",
+      "userTag": "wokeuphoursagolamarpoop",
+      "duration": "10h",
+      "createdAt": "2026-04-04T22:33:38.043Z",
+      "expiresAt": 1775378017356,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -407,6 +416,6 @@
     "827942153191161916": 2,
     "1114307292318412922": 1,
     "923991552869670993": 1,
-    "1487886677178454357": 1
+    "1487886677178454357": 2
   }
 }
