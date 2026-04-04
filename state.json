@@ -386,6 +386,15 @@
       "expiresAt": 1775354061063,
       "isUniversal": false,
       "file": "KeySystemRivals.txt"
+    },
+    "Luna-RS-Free-8964997": {
+      "userId": "1483547209411592353",
+      "userTag": "idkjscallmebro_03339",
+      "duration": "10h",
+      "createdAt": "2026-04-04T16:02:35.737Z",
+      "expiresAt": 1775354554994,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -447,6 +456,7 @@
     "1121585120898449519": 1,
     "1304515260711174249": 2,
     "1428833629131509801": 5,
-    "926767516049625088": 1
+    "926767516049625088": 1,
+    "1483547209411592353": 1
   }
 }
