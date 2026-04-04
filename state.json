@@ -99,15 +99,6 @@
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
     },
-    "Luna-PD-Free-5954817": {
-      "userId": "1463265815192273129",
-      "userTag": "67number67",
-      "duration": "5h",
-      "createdAt": "2026-04-04T01:21:01.054Z",
-      "expiresAt": 1775283660330,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
     "Luna-PD-Free-8400550": {
       "userId": "1418020584159318026",
       "userTag": "sad_kid3664",
@@ -138,7 +129,7 @@
   },
   "licenses": {},
   "counts": {
-    "1463265815192273129": 2,
+    "1463265815192273129": 1,
     "1464253355013574855": 0,
     "537019282597478423": 0,
     "1252968011824894024": 1,
