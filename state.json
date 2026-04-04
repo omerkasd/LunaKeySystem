@@ -359,6 +359,15 @@
       "expiresAt": 1775345793294,
       "isUniversal": false,
       "file": "KeySystemRivals.txt"
+    },
+    "Luna-Universal-Free-5252343": {
+      "userId": "1304515260711174249",
+      "userTag": "omerkasd",
+      "duration": "10h",
+      "createdAt": "2026-04-04T13:45:02.469Z",
+      "expiresAt": 1775346301754,
+      "isUniversal": true,
+      "file": "KeySystemUniversal.txt"
     }
   },
   "licenses": {
@@ -418,6 +427,6 @@
     "1104068897646321714": 1,
     "1318002957567918152": 0,
     "1121585120898449519": 1,
-    "1304515260711174249": 1
+    "1304515260711174249": 2
   }
 }
