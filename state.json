@@ -377,6 +377,15 @@
       "expiresAt": 1775334390786,
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
+    },
+    "Luna-RS-Free-4992008": {
+      "userId": "1428833629131509801",
+      "userTag": "flsizas",
+      "duration": "5h",
+      "createdAt": "2026-04-04T15:26:42.987Z",
+      "expiresAt": 1775334402250,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -437,6 +446,6 @@
     "1318002957567918152": 0,
     "1121585120898449519": 1,
     "1304515260711174249": 2,
-    "1428833629131509801": 4
+    "1428833629131509801": 5
   }
 }
