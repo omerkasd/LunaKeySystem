@@ -81,24 +81,6 @@
       "isUniversal": false,
       "file": "KeySystemRivals.txt"
     },
-    "Luna-RS-Free-3962470": {
-      "userId": "1469279764983451890",
-      "userTag": "jeison037574",
-      "duration": "5h",
-      "createdAt": "2026-04-04T08:41:04.326Z",
-      "expiresAt": 1775310063589,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
-    "Luna-RS-Free-5167969": {
-      "userId": "1469279764983451890",
-      "userTag": "jeison037574",
-      "duration": "5h",
-      "createdAt": "2026-04-04T08:42:51.268Z",
-      "expiresAt": 1775310170575,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
     "Luna-RS-Free-4936413": {
       "userId": "1192862671834464389",
       "userTag": "itsethanblox",
@@ -417,7 +399,7 @@
     "1377172503612362843": 3,
     "1489183797386674256": 2,
     "1477358840948195520": 1,
-    "1469279764983451890": 2,
+    "1469279764983451890": 0,
     "1192862671834464389": 2,
     "1469686240034033664": 2,
     "884310268639870986": 1,
