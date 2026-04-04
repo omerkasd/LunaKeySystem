@@ -404,6 +404,15 @@
       "expiresAt": 1775355964737,
       "isUniversal": false,
       "file": "KeySystemRivals.txt"
+    },
+    "Luna-RS-Free-2731754": {
+      "userId": "1469073012249858205",
+      "userTag": "muz4il_99936",
+      "duration": "10h",
+      "createdAt": "2026-04-04T16:28:46.474Z",
+      "expiresAt": 1775356125752,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -467,7 +476,7 @@
     "1428833629131509801": 5,
     "926767516049625088": 1,
     "1483547209411592353": 1,
-    "1469073012249858205": 1,
+    "1469073012249858205": 2,
     "1263829209848090675": 1
   }
 }
