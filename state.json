@@ -188,6 +188,15 @@
       "expiresAt": 1775315066611,
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
+    },
+    "Luna-PD-Free-1326266": {
+      "userId": "411191998385618966",
+      "userTag": "matheus.cr",
+      "duration": "5h",
+      "createdAt": "2026-04-04T05:05:14.935Z",
+      "expiresAt": 1775297114281,
+      "isUniversal": false,
+      "file": "KeySystemProjectDelta.txt"
     }
   },
   "licenses": {},
@@ -214,6 +223,6 @@
     "852644952411340841": 2,
     "947501319508336651": 1,
     "1418020584159318026": 1,
-    "411191998385618966": 1
+    "411191998385618966": 2
   }
 }
