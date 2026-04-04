@@ -298,7 +298,14 @@
       "file": "KeySystemRivals.txt"
     }
   },
-  "licenses": {},
+  "licenses": {
+    "39670330": {
+      "type": "Month",
+      "file": "Month.txt",
+      "expiresAt": 1777888928485,
+      "discordId": "1022333246559760404"
+    }
+  },
   "counts": {
     "1463265815192273129": 0,
     "1464253355013574855": 0,
