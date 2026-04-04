@@ -413,6 +413,15 @@
       "expiresAt": 1775362628811,
       "isUniversal": false,
       "file": "KeySystemRivals.txt"
+    },
+    "Luna-RS-Free-6900414": {
+      "userId": "1232665517643530312",
+      "userTag": "tzitzaa",
+      "duration": "5h",
+      "createdAt": "2026-04-04T18:17:27.231Z",
+      "expiresAt": 1775344646550,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -480,6 +489,6 @@
     "1263829209848090675": 1,
     "1318864445404876802": 1,
     "1197316767823958132": 1,
-    "1232665517643530312": 1
+    "1232665517643530312": 2
   }
 }
