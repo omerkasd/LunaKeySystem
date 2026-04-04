@@ -368,6 +368,15 @@
       "expiresAt": 1775352377568,
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
+    },
+    "Luna-Universal-Free-5087727": {
+      "userId": "1428833629131509801",
+      "userTag": "flsizas",
+      "duration": "5h",
+      "createdAt": "2026-04-04T15:26:31.445Z",
+      "expiresAt": 1775334390786,
+      "isUniversal": true,
+      "file": "KeySystemUniversal.txt"
     }
   },
   "licenses": {
@@ -428,6 +437,6 @@
     "1318002957567918152": 0,
     "1121585120898449519": 1,
     "1304515260711174249": 2,
-    "1428833629131509801": 3
+    "1428833629131509801": 4
   }
 }
