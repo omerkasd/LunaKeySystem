@@ -323,6 +323,15 @@
       "expiresAt": 1775418975797,
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
+    },
+    "Luna-RS-Free-3109664": {
+      "userId": "1213584176981217303",
+      "userTag": "dandabq",
+      "duration": "5h",
+      "createdAt": "2026-04-05T14:58:07.088Z",
+      "expiresAt": 1775419086426,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -424,6 +433,6 @@
     "1150253112091750490": 1,
     "768902828278153297": 1,
     "841997915709767691": 1,
-    "1213584176981217303": 2
+    "1213584176981217303": 3
   }
 }
