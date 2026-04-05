@@ -269,6 +269,15 @@
       "expiresAt": 1775397724142,
       "isUniversal": false,
       "file": "KeySystemRivals.txt"
+    },
+    "Luna-PD-Free-7912870": {
+      "userId": "728855415735058482",
+      "userTag": "cambiaso10.",
+      "duration": "10h",
+      "createdAt": "2026-04-05T05:05:13.322Z",
+      "expiresAt": 1775401512608,
+      "isUniversal": false,
+      "file": "KeySystemProjectDelta.txt"
     }
   },
   "licenses": {
@@ -350,6 +359,7 @@
     "268921145649135616": 4,
     "1308954669925797901": 1,
     "1354072012246618133": 2,
-    "1407672505459540039": 1
+    "1407672505459540039": 1,
+    "728855415735058482": 1
   }
 }
