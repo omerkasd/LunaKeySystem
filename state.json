@@ -323,6 +323,15 @@
       "expiresAt": 1775363211750,
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
+    },
+    "Luna-RS-Free-4264058": {
+      "userId": "1490146739288674516",
+      "userTag": "incredible_chipmunk_57630",
+      "duration": "10h",
+      "createdAt": "2026-04-05T00:44:45.888Z",
+      "expiresAt": 1775385885184,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -399,6 +408,7 @@
     "1114307292318412922": 1,
     "923991552869670993": 1,
     "1487886677178454357": 2,
-    "844556921793151006": 1
+    "844556921793151006": 1,
+    "1490146739288674516": 1
   }
 }
