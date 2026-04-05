@@ -117,15 +117,6 @@
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
     },
-    "Luna-PD-Free-3808909": {
-      "userId": "1215504816109785149",
-      "userTag": "gargledballs26",
-      "duration": "10h",
-      "createdAt": "2026-04-05T11:36:38.662Z",
-      "expiresAt": 1775424997952,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
     "Luna-RS-Free-4938296": {
       "userId": "1058659973422403664",
       "userTag": "mcknuckles122",
@@ -502,7 +493,7 @@
     "1486002906346815599": 0,
     "1489123967540400239": 0,
     "1062741913825972244": 0,
-    "1215504816109785149": 1,
+    "1215504816109785149": 0,
     "1440792346043224247": 0,
     "1058659973422403664": 2,
     "892639377619046412": 1,
