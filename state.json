@@ -243,15 +243,6 @@
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
     },
-    "Luna-PD-Free-8465884": {
-      "userId": "1473678599164002354",
-      "userTag": "ruzgar087545",
-      "duration": "5h",
-      "createdAt": "2026-04-05T15:58:38.456Z",
-      "expiresAt": 1775422717770,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
     "Luna-RS-Free-1270261": {
       "userId": "1307389277319204896",
       "userTag": "mrgleb_game",
@@ -507,7 +498,7 @@
     "841997915709767691": 1,
     "1213584176981217303": 2,
     "819304684014534698": 1,
-    "1473678599164002354": 1,
+    "1473678599164002354": 0,
     "1307389277319204896": 9,
     "1167216521366470676": 2,
     "1089555690483351672": 2,
