@@ -117,15 +117,6 @@
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
     },
-    "Luna-PD-Free-2854852": {
-      "userId": "892639377619046412",
-      "userTag": "dirga5587",
-      "duration": "10h",
-      "createdAt": "2026-04-05T12:12:18.168Z",
-      "expiresAt": 1775427137458,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
     "Luna-RS-Free-1454060": {
       "userId": "1457369351215644672",
       "userTag": "royaltyscripts",
@@ -478,7 +469,7 @@
     "1215504816109785149": 0,
     "1440792346043224247": 0,
     "1058659973422403664": 1,
-    "892639377619046412": 1,
+    "892639377619046412": 0,
     "1457369351215644672": 1,
     "1079121130847223819": 2,
     "647152032746176522": 0,
