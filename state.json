@@ -54,15 +54,6 @@
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
     },
-    "Luna-RS-Free-2248020": {
-      "userId": "1486943190576664670",
-      "userTag": "jeffgerman.",
-      "duration": "10h",
-      "createdAt": "2026-04-04T19:13:13.722Z",
-      "expiresAt": 1775365992854,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
     "Luna-Universal-Free-8279600": {
       "userId": "1304515260711174249",
       "userTag": "omerkasd",
@@ -356,7 +347,7 @@
     "1197316767823958132": 2,
     "1232665517643530312": 0,
     "1430633532140683459": 0,
-    "1486943190576664670": 1,
+    "1486943190576664670": 0,
     "440819331975217164": 0,
     "1072573787440173057": 0,
     "827942153191161916": 1,
