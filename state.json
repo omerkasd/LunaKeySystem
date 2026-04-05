@@ -395,6 +395,15 @@
       "expiresAt": 1775444586585,
       "isUniversal": false,
       "file": "KeySystemRivals.txt"
+    },
+    "Luna-RS-Free-3070917": {
+      "userId": "1307389277319204896",
+      "userTag": "mrgleb_game",
+      "duration": "5h",
+      "createdAt": "2026-04-05T17:04:06.197Z",
+      "expiresAt": 1775426645454,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -499,6 +508,6 @@
     "1213584176981217303": 3,
     "819304684014534698": 2,
     "1473678599164002354": 1,
-    "1307389277319204896": 7
+    "1307389277319204896": 8
   }
 }
