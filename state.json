@@ -117,24 +117,6 @@
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
     },
-    "Luna-RS-Free-3819764": {
-      "userId": "1079121130847223819",
-      "userTag": "gegeg_6",
-      "duration": "10h",
-      "createdAt": "2026-04-05T12:34:58.068Z",
-      "expiresAt": 1775428497378,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
-    "Luna-RS-Free-6828428": {
-      "userId": "1079121130847223819",
-      "userTag": "gegeg_6",
-      "duration": "10h",
-      "createdAt": "2026-04-05T12:35:53.664Z",
-      "expiresAt": 1775428553022,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
     "Luna-PD-Free-6951033": {
       "userId": "1490327141496393761",
       "userTag": "oluz_32872",
@@ -453,7 +435,7 @@
     "1058659973422403664": 1,
     "892639377619046412": 0,
     "1457369351215644672": 0,
-    "1079121130847223819": 2,
+    "1079121130847223819": 0,
     "647152032746176522": 0,
     "1490327141496393761": 1,
     "1140437802404819066": 0,
