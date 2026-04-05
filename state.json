@@ -189,33 +189,6 @@
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
     },
-    "Luna-PD-Free-3075012": {
-      "userId": "1490327141496393761",
-      "userTag": "oluz_32872",
-      "duration": "5h",
-      "createdAt": "2026-04-05T13:04:25.987Z",
-      "expiresAt": 1775412264618,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
-    "Luna-PD-Free-1451923": {
-      "userId": "1490327141496393761",
-      "userTag": "oluz_32872",
-      "duration": "5h",
-      "createdAt": "2026-04-05T13:06:20.549Z",
-      "expiresAt": 1775412379824,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
-    "Luna-RS-Free-8697865": {
-      "userId": "1140437802404819066",
-      "userTag": "vmp1rexts",
-      "duration": "5h",
-      "createdAt": "2026-04-05T13:06:21.895Z",
-      "expiresAt": 1775412381294,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
     "Luna-RS-Free-7196680": {
       "userId": "1058659973422403664",
       "userTag": "mcknuckles122",
@@ -509,8 +482,8 @@
     "1457369351215644672": 1,
     "1079121130847223819": 2,
     "647152032746176522": 0,
-    "1490327141496393761": 3,
-    "1140437802404819066": 1,
+    "1490327141496393761": 1,
+    "1140437802404819066": 0,
     "1150253112091750490": 1,
     "768902828278153297": 1,
     "841997915709767691": 1,
