@@ -99,15 +99,6 @@
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
     },
-    "Luna-RS-Free-5484052": {
-      "userId": "1482324850847649832",
-      "userTag": "realert0.",
-      "duration": "10h",
-      "createdAt": "2026-04-05T09:39:24.293Z",
-      "expiresAt": 1775417963595,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
     "Luna-Universal-Free-9106205": {
       "userId": "1239908846290342018",
       "userTag": "yokai.win",
@@ -450,7 +441,7 @@
     "884310268639870986": 0,
     "1488894394764627998": 0,
     "667635262293016586": 0,
-    "1482324850847649832": 1,
+    "1482324850847649832": 0,
     "1159139871995211837": 0,
     "1035207440146386974": 0,
     "925898632178335764": 0,
