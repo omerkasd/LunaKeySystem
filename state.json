@@ -224,6 +224,15 @@
       "expiresAt": 1775406217873,
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
+    },
+    "Luna-Universal-Free-4717097": {
+      "userId": "1239908846290342018",
+      "userTag": "yokai.win",
+      "duration": "5h",
+      "createdAt": "2026-04-05T11:26:03.529Z",
+      "expiresAt": 1775406362785,
+      "isUniversal": true,
+      "file": "KeySystemUniversal.txt"
     }
   },
   "licenses": {
@@ -241,7 +250,7 @@
     "1252968011824894024": 1,
     "950314378220171285": 0,
     "1093483853391351819": 0,
-    "1239908846290342018": 1,
+    "1239908846290342018": 2,
     "310304985135185920": 0,
     "1412114086770245782": 0,
     "970251001246388224": 0,
