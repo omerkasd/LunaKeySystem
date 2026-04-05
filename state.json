@@ -198,15 +198,6 @@
       "isUniversal": false,
       "file": "KeySystemRivals.txt"
     },
-    "Luna-PD-Free-2505149": {
-      "userId": "1150253112091750490",
-      "userTag": "amamelvinger",
-      "duration": "5h",
-      "createdAt": "2026-04-05T14:26:37.577Z",
-      "expiresAt": 1775417196856,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
     "Luna-RS-Free-5969294": {
       "userId": "768902828278153297",
       "userTag": "mpampasss",
@@ -511,7 +502,7 @@
     "647152032746176522": 0,
     "1490327141496393761": 1,
     "1140437802404819066": 0,
-    "1150253112091750490": 1,
+    "1150253112091750490": 0,
     "768902828278153297": 1,
     "841997915709767691": 1,
     "1213584176981217303": 3,
