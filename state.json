@@ -242,6 +242,15 @@
       "expiresAt": 1775462677061,
       "isUniversal": false,
       "file": "KeySystemProjectDelta.txt"
+    },
+    "Luna-RS-Free-5807122": {
+      "userId": "1290819768961728584",
+      "userTag": "oumpaboy",
+      "duration": "10h",
+      "createdAt": "2026-04-06T03:27:13.786Z",
+      "expiresAt": 1775482033046,
+      "isUniversal": false,
+      "file": "KeySystemRivals.txt"
     }
   },
   "licenses": {
@@ -357,6 +366,7 @@
     "823075363545677844": 1,
     "1399086105227427923": 1,
     "781718568500723722": 1,
-    "1427063847608516718": 1
+    "1427063847608516718": 1,
+    "1290819768961728584": 1
   }
 }
