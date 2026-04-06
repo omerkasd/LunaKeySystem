@@ -126,33 +126,6 @@
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
     },
-    "Luna-RS-Free-5119630": {
-      "userId": "1307389277319204896",
-      "userTag": "mrgleb_game",
-      "duration": "10h",
-      "createdAt": "2026-04-05T17:01:14.274Z",
-      "expiresAt": 1775444471948,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
-    "Luna-RS-Free-3869300": {
-      "userId": "1307389277319204896",
-      "userTag": "mrgleb_game",
-      "duration": "10h",
-      "createdAt": "2026-04-05T17:02:45.268Z",
-      "expiresAt": 1775444564610,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
-    "Luna-RS-Free-5124606": {
-      "userId": "1307389277319204896",
-      "userTag": "mrgleb_game",
-      "duration": "10h",
-      "createdAt": "2026-04-05T17:03:07.279Z",
-      "expiresAt": 1775444586585,
-      "isUniversal": false,
-      "file": "KeySystemRivals.txt"
-    },
     "Luna-PD-Free-8471075": {
       "userId": "1167216521366470676",
       "userTag": "konaki9572",
@@ -382,7 +355,7 @@
     "1213584176981217303": 1,
     "819304684014534698": 0,
     "1473678599164002354": 0,
-    "1307389277319204896": 3,
+    "1307389277319204896": 0,
     "1167216521366470676": 1,
     "1089555690483351672": 1,
     "1320229517255512115": 2,
