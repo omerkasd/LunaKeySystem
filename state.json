@@ -180,15 +180,6 @@
       "isUniversal": true,
       "file": "KeySystemUniversal.txt"
     },
-    "Luna-PD-Free-5107939": {
-      "userId": "823075363545677844",
-      "userTag": "bloxfruitacclv",
-      "duration": "5h",
-      "createdAt": "2026-04-05T23:48:44.758Z",
-      "expiresAt": 1775450923930,
-      "isUniversal": false,
-      "file": "KeySystemProjectDelta.txt"
-    },
     "Luna-RS-Free-3273491": {
       "userId": "1483547209411592353",
       "userTag": "idkjscallmebro_03339",
@@ -363,7 +354,7 @@
     "1381396784395456512": 1,
     "1165058727204892782": 2,
     "1204946957693354039": 0,
-    "823075363545677844": 1,
+    "823075363545677844": 0,
     "1399086105227427923": 1,
     "781718568500723722": 1,
     "1427063847608516718": 1,
